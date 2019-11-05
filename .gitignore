@@ -1,0 +1,4 @@
+/data
+*.terraform
+*.__pycache__
+*.cache
